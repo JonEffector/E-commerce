@@ -1,0 +1,1 @@
+# welcome to my first new E-commerce web application. mainly, this application is made by use of html,css,javascript,(react&redux)for frontend and for backend side i have used nodejs and mongodb for database.
