@@ -7,7 +7,8 @@ export default {
             price:60,
             brand:"Nike",
             rating: 4.5,
-            numReviews:10
+            numReviews:10,
+            countInStock:5,
         },
         {
             _id:"2",
@@ -16,7 +17,8 @@ export default {
             price:45,
             brand:"Lacostle",
             rating: 4,
-            numReviews:5
+            numReviews:5,
+            countInStock:0,
         },
         {
             _id:"3",
@@ -25,7 +27,8 @@ export default {
             price:70,
             brand:"Nike",
             rating: 4.1,
-            numReviews:8
+            numReviews:8,
+            countInStock:3,
         },
         {
             _id:"4",
@@ -34,7 +37,8 @@ export default {
             price:60,
             brand:"Nike",
             rating: 4.5,
-            numReviews:10
+            numReviews:10,
+            countInStock:9,
         },
         {
             _id:"5",
@@ -43,7 +47,8 @@ export default {
             price:45,
             brand:"Lacostle",
             rating: 4,
-            numReviews:5
+            numReviews:5,
+            countInStock:6,
         },
         {
             _id:"6",
@@ -52,7 +57,8 @@ export default {
             price:70,
             brand:"Nike",
             rating: 4.1,
-            numReviews:8
+            numReviews:8,
+            countInStock:5,
         }
     ]
 }
